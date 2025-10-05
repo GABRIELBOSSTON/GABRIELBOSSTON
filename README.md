@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gabriel </h1>
 <div align="center">
-  <img src="src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNxejdqNnVqZTlwbDBqNDYyNm15OGFod3J4cjY1ZThjdGZqMDR3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dCBZtA2iuNqZW/giphy.gif">
+  <img src="src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNxejdqNnVqZTlwbDBqNDYyNm15OGFod3J4cjY1ZThjdGZqMDR3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dCBZtA2iuNqZW/giphy.gif">
 </div>
 
 <h3 align=left> About Me </h3>
