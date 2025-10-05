@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel </h1>
 <div align="center">
-  <img src="src=https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+ <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
-
 <h3 align=left> About Me </h3>
 
 - :school: I am a Student at [Faculty of Engineering](https://president.ac.id/) at [President
