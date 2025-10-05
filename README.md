@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gabriel </h1>
 <div align="center">
-  <img src="https://pin.it/5J7aisHMr">
+  <img src="src="https://i.pinimg.com/originals/f7/c7/5c/f7c75ce99a9e6bd368e3c2433dc6048a.gif"">
 </div>
 
 <h3 align=left> About Me </h3>
