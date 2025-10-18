@@ -4,7 +4,7 @@
 </div>
 <h3 align=left> About Me </h3>
 
-- :school: I am a Student at [Faculty of Informatics](https://president.ac.id/) at [President
+- :school: I am a Student at [Faculty of Computing](https://president.ac.id/) at [President
   University](https://president.ac.id/).
 - :student: I’m currently learn Website Design and Software Engineering and also Cyber Security.
 - :nerd_face: Always learn something new.
